@@ -1,0 +1,19 @@
+{
+    "invalidCredentials": "The credentials are not valid.",
+    "invalidEmail": "The email provided is incorrect.",
+    "invalidRequest": "This is an invalid request.",
+    "userNameExists": "This user name is not available.",
+    "emailExists": "This email is not available.",
+    "emailInvalid": "This email is not valid.",
+    "userNameRequired": "User Name is required.",
+    "emailRequired": "Email is required.",
+    "passwordRequired": "Password is required.",
+    "failedRegistration": "Registration Failed.",
+    "userRegistered": "Registration is successfull.",
+    "userLogin": "Login is successfull.",
+    "userLogout": "Logout is successfull.",
+    "failedUpload": "Upload Failed.",
+    "imageUploaded": "Image Upload is successfull.",
+    "profileFailed": "User Fetching Failed.",
+    "profileFetched": "User Profile Fetched is successfull."
+}

@@ -1,0 +1,13 @@
+{
+    "nameRequired": "Name is required.",
+    "entryFeesRequired": "Entry Fees is required.",
+    "failedAddContest": "Failed to Add Contest.",
+    "failedGetContests": "Failed to Get Contest(s).",
+    "failedGetContest": "Failed to Get Contest.",
+    "failedUpdateContest": "Failed to Update Contest.",
+    "failedDeleteContest": "Failed to Delete Contest.",
+    "contestAdded": "Contest Added Successfully.",
+    "contestUpdated": "Contest Updated Successfully.",
+    "contestDeleted": "Contest Deleted Successfully.",
+    "contestRetrieved": "Contest Retrieved Successfully."
+}

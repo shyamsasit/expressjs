@@ -1,0 +1,15 @@
+{
+    "post_titleRequired": "Name is required.",
+    "post_descriptionRequired": "Description is required.",
+    "categoryRequired": "Category is required.",
+    "imageRequired": "Image is required.",
+    "failedAddPost": "Failed to Add Post.",
+    "failedGetPosts": "Failed to Get Post(s).",
+    "failedGetPost": "Failed to Get Post.",
+    "failedUpdatePost": "Failed to Update Post.",
+    "failedDeletePost": "Failed to Delete Post.",
+    "postAdded": "Post Added Successfully.",
+    "postUpdated": "Post Updated Successfully.",
+    "postDeleted": "Post Deleted Successfully.",
+    "postRetrieved": "Post Retrieved Successfully."
+}

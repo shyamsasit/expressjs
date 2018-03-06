@@ -1,0 +1,15 @@
+{
+    "contact_nameRequired": "Contact Name is required.",
+    "cmessageRequired": "Message is required.",
+    "contact_emailRequired": "Email is required.",
+    "subjectRequired": "Subject is required.",
+    "failedAddContact": "Failed to Add Contact.",
+    "failedGetContacts": "Failed to Get Contact(s).",
+    "failedGetContact": "Failed to Get Contact.",
+    "failedUpdateContact": "Failed to Update Contact.",
+    "failedDeleteContact": "Failed to Delete Contact.",
+    "contactAdded": "Contact Added Successfully.",
+    "contactUpdated": "Contact Updated Successfully.",
+    "contactDeleted": "Contact Deleted Successfully.",
+    "contactRetrieved": "Contact Retrieved Successfully."
+}
